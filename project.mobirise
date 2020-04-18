@@ -7,11 +7,11 @@
       "title": "Mobirise3",
       "styling": {
         "primaryColor": "#0e1935",
-        "secondaryColor": "#2969b0",
-        "successColor": "#2969b0",
-        "infoColor": "#2969b0",
+        "secondaryColor": "#41a85f",
+        "successColor": "#00a885",
+        "infoColor": "#3d8eb9",
         "warningColor": "#2969b0",
-        "dangerColor": "#2969b0",
+        "dangerColor": "#553982",
         "titleFont": "Montserrat",
         "subtitleFont": "Raleway",
         "textFont": "Raleway",
@@ -711,7 +711,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2020 Medbiotech.",
+          "text": "Copyright (c) 2020 <a href=\"http://medbiotech.ma/\" target=\"_blank\" class=\"text-info\">Medbiotech</a>.",
           "_tags": [
             "Theme"
           ],
@@ -986,7 +986,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2020 Medbiotech.",
+          "text": "Copyright (c) 2020 <a href=\"http://medbiotech.ma/\" target=\"_blank\" class=\"text-info\">Medbiotech</a>.",
           "_tags": [
             "Theme"
           ],
@@ -1042,7 +1042,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2020 Medbiotech.",
+          "text": "Copyright (c) 2020 <a href=\"http://medbiotech.ma/\" target=\"_blank\" class=\"text-info\">Medbiotech</a>.",
           "_tags": [
             "Theme"
           ],
