@@ -33,31 +33,16 @@
     "versionFirst": "4.12.3",
     "siteFonts": [],
     "imageResize": true,
-    "cookiesAlert": {
-      "customDialogSelector": false,
-      "colorText": "#424a4d",
-      "colorBg": "#eaeff1",
-      "colorButton": "",
-      "colorLink": "#424a4d",
-      "underlineLink": true,
-      "opacity": "99",
-      "opacityOverlay": "80",
-      "text": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
-      "textButton": "Agree"
-    },
-    "gdpr": {
-      "colorText": "#a7a7a7",
-      "colorLink": "#149dcc",
-      "underlineLink": false,
-      "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
-    },
     "favicon": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
-    "uniqCompNum": 61,
-    "versionPublish": "4.12.3"
+    "uniqCompNum": 77,
+    "versionPublish": "4.12.3",
+    "screenshot": "screenshot.png",
+    "gdpr": false,
+    "cookiesAlert": false
   },
   "pages": {
     "index.html": {
@@ -76,9 +61,9 @@
             "showText": true,
             "showButtons": false,
             "showArrow": true,
-            "contentAlign": "left",
+            "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/3583630-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1279.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -88,27 +73,16 @@
             },
             "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": "0.4"
+            "overlayOpacity": "0.5"
           },
-          "title": "<span style=\"font-weight: normal;\">WELCOME TO</span> MP2D<br>",
-          "text": "<b>M</b>OROCCAN <b>P</b>LATFORM\nFOR <b>D</b>RUG <b>D</b>ESIGN.&nbsp;<br>",
+          "title": "WELCOME TO MP2D",
+          "text": "MOROCCAN PLATFORM FOR DRUG DESIGN.&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "header1",
-          "_anchor": "header1-1a",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-size": "60px",
-              "text-align": "left"
-            },
-            ".mbr-section-lead": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "30px"
-            }
-          }
+          "_anchor": "header1-23"
         },
         {
           "_styles": {
@@ -120,8 +94,8 @@
             "showTitle": true,
             "showText": false,
             "showButton": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
             "parallax": true,
@@ -151,8 +125,8 @@
             "showSubtitles": false,
             "ShowTexts": false,
             "showButtons": false,
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "columns": 4,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -267,8 +241,8 @@
             "showTitle": true,
             "showText": false,
             "showButton": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
             "parallax": true,
@@ -332,7 +306,7 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
-              "name": "profile-female",
+              "name": "profile-male",
               "family": "et-line",
               "active": true,
               "link": "https://mobirise.com",
@@ -398,14 +372,14 @@
               "border-color": "#0e1935"
             }
           },
-          "title1": "Pr. Azeddine Ibrahimi&nbsp;",
+          "title1": "Pr. Azeddine IBRAHIMI&nbsp;",
           "subtitle1": "Team leader",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "Loubna El Allam",
-          "subtitle2": "Ph.D",
+          "title2": "Pr.Badreddine LMIMOUNI",
+          "subtitle2": "Pharmacist, parasitologist",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "El Mehdi Bouricha",
-          "subtitle3": "Ph.D student",
+          "title3": "Pr.TOUZANI",
+          "subtitle3": "Pharmacist, parasitologist",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "title4": "Fatima Laghrifi",
           "subtitle4": "Mobirise gives you the freedom to develop",
@@ -434,9 +408,9 @@
             "ShowTexts": false,
             "showButtons": true,
             "iconsBgColor": "#0e1935",
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "columns": "2",
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "columns": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -466,7 +440,141 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
+              "name": "profile-male",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
               "name": "profile-female",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "profile-male",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".card-subtitle": {
+              "color": "#0e1935"
+            },
+            ".iconbox": {
+              "background-color": "#0e1935",
+              "border-color": "#0e1935"
+            }
+          },
+          "title1": "Pr. Rachid EL JAOUDI",
+          "subtitle1": "Pharmacist, Toxicologist",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "Pr.Jaouad EL HARTI",
+          "subtitle2": "Medicinal Chemistry",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "Fatima EL GHRIFI",
+          "subtitle3": "Ph.D (Biotechnlogy &amp; Bioinformatics)&nbsp;",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Fatima Laghrifi",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"#\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span>com</a> <a data-app-btn=\"true\" href=\"#\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span>com</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"#\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span>com</a> <a data-app-btn=\"true\" href=\"#\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span>com</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"#\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span>com</a> <a data-app-btn=\"true\" href=\"#\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span>com</a>  ",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>  <a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>   ",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_name": "features7",
+          "_anchor": "features7-24"
+        },
+        {
+          "_inherit": "features4",
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": false,
+            "showButtons": true,
+            "iconsBgColor": "#0e1935",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "profile-female",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#ffffff"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "profile-male",
               "family": "et-line",
               "active": true,
               "link": "https://mobirise.com",
@@ -532,14 +640,14 @@
               "border-color": "#0e1935"
             }
           },
-          "title1": "Mohammed Hakmi",
-          "subtitle1": "Ph.D student",
+          "title1": "Loubna ALLAM",
+          "subtitle1": "Ph.D (Biotechnlogy &amp; Bioinformatics)&nbsp;",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "Fatima El Ghrifi",
-          "subtitle2": "Ph.D",
+          "title2": "Mohammed HAKMI",
+          "subtitle2": "Ph.D Student (Biotechnlogy &amp; Bioinformatics)",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "El Mahdi Bouricha",
-          "subtitle3": "Ph.D student",
+          "title3": "El Mahdi BOURICHA",
+          "subtitle3": "Ph.D student (Biotechnlogy &amp; Bioinformatics)",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "title4": "Fatima Laghrifi",
           "subtitle4": "Mobirise gives you the freedom to develop",
@@ -571,8 +679,8 @@
             }
           },
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "2",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
             "parallax": true,
@@ -612,8 +720,8 @@
         },
         {
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -831,7 +939,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/3583630-2000x1333.jpeg",
+            "bgImage": "@PROJECT_PATH@/assets/images/3583630-2000x1333.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -841,16 +949,16 @@
             },
             "overlay": true,
             "overlayColor": "#222",
-            "overlayOpacity": "0.7"
+            "overlayOpacity": 0.5
           },
           "title": "SCIENTIFIC PUBLICATIONS",
-          "text": "<p>Article header with background image and parallax effect.</p>",
+          "text": "<p>MOROCCAN PLATFORM FOR DRUG DESIGN.&nbsp;</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box8",
-          "_anchor": "msg-box8-n"
+          "_anchor": "msg-box8-1q"
         },
         {
           "_params": {
@@ -887,8 +995,8 @@
         },
         {
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -976,7 +1084,7 @@
             },
             ".mbr-section-title": {
               "color": "#f97352",
-              "text-align": "right"
+              "text-align": "left"
             }
           }
         },
@@ -1041,96 +1149,64 @@
           "_anchor": "content2-z"
         },
         {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": false,
-            "imageSize": "55",
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/drug-design-yourgenome-3-907x811.png",
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "Different stages of drug developement",
-          "text": "Image credit: Genome Research Limited",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-1o",
           "_styles": {
-            "H3": {
-              "text-align": "right"
-            },
-            "P": {
-              "text-align": "right"
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
             }
-          }
-        },
-        {
+          },
           "_params": {
-            "showText": true,
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": "1",
             "bgColor": "#fff"
           },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/sh1-parita-2-1400x1084.png",
-              "width": 1400,
-              "link": "publications.html",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "<b>Molecular docking of paritaprevir, an anti HCV drug, into the active site of SARS-CoV-2 main protease</b>. <i>Hakmi et al. 2020</i><br>",
+          "title": "OUR CONTRIBUTIONS",
+          "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
           ],
-          "_name": "image2",
-          "_anchor": "image2-t"
+          "_name": "header3",
+          "_anchor": "header3-22"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": "1",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "fff",
+            "showText": false,
+            "filter": true,
+            "images": [
+              {
+                "tags": "COVID-19",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/sh-parita-2-1058x819.png",
+                "thumb": "@PROJECT_PATH@/assets/images/sh-parita-2-1058x819-800x619.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery4",
+          "_anchor": "gallery4-21"
         },
         {
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,

@@ -1,7 +1,5 @@
-@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700&display=swap);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700&display=swap);
-
 
 
 
@@ -464,14 +462,6 @@ section.form .container {
   flex-wrap: wrap;
   margin: 0 -15px;
 }
-#header1-1a .mbr-section-title {
-  font-size: 60px;
-  text-align: left;
-}
-#header1-1a .mbr-section-lead {
-  font-family: 'Lora', serif;
-  font-size: 30px;
-}
 #msg-box8-v .mbr-section-title,
 #msg-box8-v .lead {
   color: #fff;
@@ -484,6 +474,13 @@ section.form .container {
   color: #0e1935;
 }
 #features7-1c .iconbox {
+  background-color: #0e1935;
+  border-color: #0e1935;
+}
+#features7-24 .card-subtitle {
+  color: #0e1935;
+}
+#features7-24 .iconbox {
   background-color: #0e1935;
   border-color: #0e1935;
 }
@@ -624,8 +621,8 @@ section.form .container {
 #ext_menu-15 .dropdown-item[aria-expanded="true"] {
   color: #0e1935!important;
 }
-#msg-box8-n .mbr-section-title,
-#msg-box8-n .lead {
+#msg-box8-1q .mbr-section-title,
+#msg-box8-1q .lead {
   color: #fff;
 }
 #header1-s .mbr-section-lead {
@@ -634,17 +631,15 @@ section.form .container {
 }
 #header1-s .mbr-section-title {
   color: #f97352;
-  text-align: right;
+  text-align: left;
 }
 #msg-box8-u .mbr-section-title,
 #msg-box8-u .lead {
   color: #fff;
 }
-#msg-box5-1o H3 {
-  text-align: right;
-}
-#msg-box5-1o P {
-  text-align: right;
+#header3-22 .mbr-section-title,
+#header3-22 .mbr-section-subtitle {
+  text-align: center;
 }
 #ext_menu-15 .hide-buttons .nav-btn {
   display: none !important;
