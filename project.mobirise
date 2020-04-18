@@ -1194,7 +1194,7 @@
             "overlayOpacity": "0.6"
           },
           "title": "COVID-19@MP2D",
-          "text": "The ongoing COVID-19 pandemic is caused by a new virus strain of the Coronaviridae family known as SARS-CoV-2, an enveloped&nbsp;betacoronavirus with a single-stranded, positive-sense RNA. Understanding how this coronavirus diverts the host during infection is critical to the implementation of effective therapeutic strategies involving the development of new drugs or the readaptation of existing ones to counter this COVID-19 outbreak.<br>",
+          "text": "The ongoing COVID-19 pandemic is caused by a new virus strain of the <i>Coronaviridae </i>family known as SARS-CoV-2, an enveloped&nbsp;betacoronavirus with a single-stranded, positive-sense RNA. Understanding how this coronavirus diverts the host during infection is critical to the implementation of effective therapeutic strategies involving the development of new drugs or the readaptation of existing ones to counter this COVID-19 outbreak.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
           "_tags": [
             "Theme"
