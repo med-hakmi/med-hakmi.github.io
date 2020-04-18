@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "MP2D",
-    "currentPage": "index.html",
+    "currentPage": "covid-19.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -38,7 +38,7 @@
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
-    "uniqCompNum": 78,
+    "uniqCompNum": 79,
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png",
     "gdpr": false,
@@ -1194,7 +1194,7 @@
             "overlayOpacity": "0.6"
           },
           "title": "COVID-19@MP2D",
-          "text": "\"The current pandemic of COVID-19 is caused by a novel virus strain SARS-CoV-2, an enveloped, positive-sense, single-stranded RNA betacoronavirus of the family Coronaviridae. To devise therapeutic strategies to counteract SARS-CoV-2 infection, it is crucial to develop a comprehensive understanding of how this coronavirus hijacks the host during the course of infection, and to apply this knowledge towards developing both new drugs and repurposing existing ones. \"&nbsp;<br><i>towardsdatascience.com</i><br>",
+          "text": "The ongoing COVID-19 pandemic is caused by a new virus strain of the Coronaviridae family known as SARS-CoV-2, an enveloped&nbsp;betacoronavirus with a single-stranded, positive-sense RNA. Understanding how this coronavirus diverts the host during infection is critical to the implementation of effective therapeutic strategies involving the development of new drugs or the readaptation of existing ones to counter this COVID-19 outbreak.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
           "_tags": [
             "Theme"
@@ -1247,32 +1247,6 @@
           "_anchor": "msg-box8-u"
         },
         {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<blockquote><p>Modern drug discovery involves the identification of screening hits, medicinal chemistry and optimization of those hits to increase the affinity, selectivity (to reduce the potential of side effects), efficacy/potency, metabolic stability (to increase the half-life), and oral bioavailability. Once a compound that fulfills all of these requirements has been identified, the process of drug development can continue, and, if successful, clinical trials are developed. </p><p>wikipedia.org</p></blockquote>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content2",
-          "_anchor": "content2-x"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<blockquote><p>The most fundamental goal in drug design is to predict whether a given molecule will bind to a target and if so how strongly. Molecular mechanics or molecular dynamics is most often used to estimate the strength of the intermolecular interaction between the small molecule and its biological target.&nbsp;</p><p>Drug design with the help of computers may be used at any of the following stages of drug discovery:\n</p><p>\n<span style=\"font-size: 1.07rem;\">&nbsp; &nbsp; hit identification using virtual screening (structure- or ligand-based design)&nbsp;</span></p><p>&nbsp; &nbsp; hit-to-lead optimization of affinity and selectivity (structure-based design, QSAR, etc.)\n</p><p>&nbsp; &nbsp; lead optimization of other pharmaceutical properties while maintaining affinity</p><p>wikipedia.org</p></blockquote>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content2",
-          "_anchor": "content2-z"
-        },
-        {
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
@@ -1291,6 +1265,19 @@
           ],
           "_name": "header3",
           "_anchor": "header3-22"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote>In a previous study, we identified some HIV and HCV protease inhibitor drugs that could also work for SARS-CoV-2 since they showed adequate binding modes within the active site of its main protease (as shown in the image bellow).&nbsp;</blockquote><blockquote>We are currently working on other projects in collaboration with the genomics unit of our laboratory in order to detect weak points of the virus and tackle it in a more adequate and effective way.&nbsp;</blockquote>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-26"
         },
         {
           "_inherit": "gallery1",
