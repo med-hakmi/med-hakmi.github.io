@@ -63,7 +63,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1279.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/samson-capture-3-891x756.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -154,7 +154,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/netw-600x300.jpeg",
+              "src": "@PROJECT_PATH@/assets/images/protein-protein-508x345.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
