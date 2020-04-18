@@ -466,6 +466,7 @@ section.form .container {
 }
 #header1-1a .mbr-section-title {
   font-size: 60px;
+  text-align: left;
 }
 #header1-1a .mbr-section-lead {
   font-family: 'Lora', serif;
@@ -627,9 +628,6 @@ section.form .container {
 #msg-box8-n .lead {
   color: #fff;
 }
-#content2-10 DIV {
-  color: #232323;
-}
 #header1-s .mbr-section-lead {
   color: #ffffff;
   text-align: left;
@@ -641,6 +639,12 @@ section.form .container {
 #msg-box8-u .mbr-section-title,
 #msg-box8-u .lead {
   color: #fff;
+}
+#msg-box5-1o H3 {
+  text-align: right;
+}
+#msg-box5-1o P {
+  text-align: right;
 }
 #ext_menu-15 .hide-buttons .nav-btn {
   display: none !important;

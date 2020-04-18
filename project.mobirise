@@ -56,7 +56,7 @@
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
-    "uniqCompNum": 50,
+    "uniqCompNum": 61,
     "versionPublish": "4.12.3"
   },
   "pages": {
@@ -78,7 +78,7 @@
             "showArrow": true,
             "contentAlign": "left",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1279.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/3583630-2000x1333.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -88,10 +88,10 @@
             },
             "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": "0.7"
+            "overlayOpacity": "0.4"
           },
-          "title": "WELCOME TO MP2D&nbsp;",
-          "text": "THE MOROCCAN PLATOFRM FOR DRUG DESIGN<br> OFFCIAL WEBSITE.",
+          "title": "<span style=\"font-weight: normal;\">WELCOME TO</span> MP2D<br>",
+          "text": "<b>M</b>OROCCAN <b>P</b>LATFORM\nFOR <b>D</b>RUG <b>D</b>ESIGN.&nbsp;<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
           "_tags": [
             "Theme"
@@ -100,7 +100,8 @@
           "_anchor": "header1-1a",
           "_styles": {
             ".mbr-section-title": {
-              "font-size": "60px"
+              "font-size": "60px",
+              "text-align": "left"
             },
             ".mbr-section-lead": {
               "font-family": "'Lora', serif",
@@ -147,8 +148,8 @@
           "_params": {
             "showImages": true,
             "showTitles": true,
-            "showSubtitles": true,
-            "ShowTexts": true,
+            "showSubtitles": false,
+            "ShowTexts": false,
             "showButtons": false,
             "paddingTop": 2,
             "paddingBottom": 2,
@@ -168,34 +169,46 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/table.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mol-600x400.jpeg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/desktop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/netw-600x300.jpeg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/coworkers.jpg",
+              "src": "@PROJECT_PATH@/assets/images/dyn-1-600x300.jpeg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/code-man.jpg",
+              "src": "@PROJECT_PATH@/assets/images/models-1-600x446.png",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media5": {
@@ -215,7 +228,7 @@
             }
           },
           "title1": "Ligand and structure based drug design",
-          "subtitle1": "",
+          "subtitle1": "image: Freepik.com",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
           "title2": "Protein-Protein interactions",
           "subtitle2": "",
@@ -287,8 +300,8 @@
             "ShowTexts": false,
             "showButtons": true,
             "iconsBgColor": "#0e1935",
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "1",
+            "paddingBottom": "0",
             "columns": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -385,7 +398,7 @@
               "border-color": "#0e1935"
             }
           },
-          "title1": "Pr. Azeddin Ibrahimi&nbsp;",
+          "title1": "Pr. Azeddine Ibrahimi&nbsp;",
           "subtitle1": "Team leader",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
           "title2": "Loubna El Allam",
@@ -403,9 +416,9 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span>com</a> <a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span>com</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span>com</a> <a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span>com</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span>com</a> <a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span>com</a>  ",
+          "button1": "<a data-app-btn=\"true\" href=\"#\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span>com</a> <a data-app-btn=\"true\" href=\"#\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span>com</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"#\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span>com</a> <a data-app-btn=\"true\" href=\"#\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span>com</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"#\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span>com</a> <a data-app-btn=\"true\" href=\"#\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span>com</a>  ",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>  <a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>   ",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -537,8 +550,8 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span>com</a> <a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span>com</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span>com</a> <a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span>com</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"#\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span>com</a> <a data-app-btn=\"true\" href=\"#\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span>com</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"#\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span>com</a> <a data-app-btn=\"true\" href=\"#\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span>com</a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span>com</a> <a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span>com</a>  ",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>  <a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>   ",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -573,7 +586,7 @@
             "Theme"
           ],
           "text": "FOLLOW US",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/mobirise/\"><i class=\"socicon socicon-pinterest\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://mobirise.tumblr.com/\"><i class=\"socicon socicon-tumblr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   ",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"#\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"#\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"#\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"#\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"#\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   ",
           "_name": "social-buttons4",
           "_anchor": "social-buttons4-d"
         },
@@ -694,7 +707,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-295x123.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-h-307x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -789,7 +802,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-295x123.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-h-307x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -818,7 +831,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1279.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/3583630-2000x1333.jpeg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -841,60 +854,16 @@
         },
         {
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#ffffff"
-          },
-          "text": "<blockquote>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</blockquote>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content2",
-          "_anchor": "content2-10",
-          "_styles": {
-            "DIV": {
-              "color": "#232323"
-            }
-          }
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
+            "paddingTop": "3",
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</blockquote>",
+          "text": "<blockquote><p><b>Repurposing of known anti-virals as potential inhibitors for SARS-CoV-2 main protease using molecular docking analysis</b></p><p><span style=\"font-size: 1.09rem;\">Mohammed Hakmi, El Mehdi Bouricha, Ilham Kandoussi, Jaouad El Harti &amp; Azeddine Ibrahimi.</span></p></blockquote><blockquote><p><b>Three-dimensional Structure Prediction of the Human LMTK3 Catalytic Domain in DYG-in Conformation</b></p><p> Loubna Allam,Wiame Lakhlili,Zineb Tarhda,Jihane Akachar, Fatima Ghrifi,Hamid El AmriandAzeddine Ibrahimi\n</p></blockquote><blockquote><p><b>Molecular screening and docking analysis of LMTK3 and AKT1 combined inhibitors</b></p><p><span style=\"font-size: 1.09rem;\">Loubna Allam,Ghrifi Fatima,1Lakhlili Wiame,El Amri Hamid and Ibrahimi Azeddine</span></p></blockquote><blockquote><p><b>In Silico Inhibition Studies of AXL Kinase by Curcumin and its Natural Derivatives</b></p><p><span style=\"font-size: 1.09rem;\">Ghrifi Fatima, Allam Loubna, Lakhlili Wiame and Ibrahimi Azeddine</span></p></blockquote><blockquote><p><b>Curcumin-Synthetic Analogs Library Screening by Docking and Quantitative Structure–Activity Relationship Studies for AXL Tyrosine Kinase Inhibition in Cancers</b> </p><p>Fatima Ghrifi,Loubna Allam,Lakhlili Wiame, andAzeddine Ibrahimi.\n</p></blockquote><blockquote><p><b>Determination and validation of mTOR kinase-domain 3D structure by homology modelling</b> </p><p>Wiame Lakhlili, Gwénaël Chevé, Abdelaziz Yasri, and Azeddine Ibrahimi\n</p></blockquote><blockquote><p><b>Structure–activity relationships study of mTOR kinase inhibition using QSAR and structure-based drug design approaches</b></p><p><span style=\"font-size: 1.09rem;\">Wiame Lakhlili, Abdelaziz Yasri, Azeddine Ibrahimi</span></p></blockquote><blockquote><p><b>A review on PIM kinases in tumors</b></p><p><span style=\"font-size: 1.09rem;\">Housna Arrouchi, Wiame Lakhlili, Azeddine Ibrahimi</span></p></blockquote><blockquote><p><b>Re-positioning of known drugs for Pim-1 kinase target using molecular docking analysis</b> </p><p>Housna Arrouchi, Wiame Lakhlili, Azeddine Ibrahimi\n</p></blockquote><blockquote><p><b>Docking analysis of verteporfin with YAP WW domain</b> </p><p>Ilham Kandoussi, Wiame Lakhlili, Jamal Taoufik, Azeddine Ibrahimi\n</p></blockquote><blockquote><p><b>The displacement study of 99mTc-DTPA—Human serum albumin binding in presence of furosemide and metformin by using equilibrium dialysis and molecular docking</b> </p><p>Laila Chemlal, Jihane Akachar, Sanaa Makram, Brahim Zoubir, Yahia Cherrah, Rachid Eljaoudi, Azeddine Ibrahimi, Mly A. Faouzi\n</p></blockquote><blockquote><p><b>Synthesis, Anti-hypoxic Activity and Molecular Docking Studies of New Quinazolinone-4 Derivatives</b> </p><p>Jihane Akachar , Abdul-Malik Abudunia, Rachid El Jaoudi, Fatima Ezzahra Bennani, Mohammed Ansar , Azeddine Ibrahimi1 , Ali Al-kaf\n</p></blockquote><blockquote><p><b>Synthesis, anti-inflammatory evaluation in vivo and docking studies of some new 5-(benzo[b]furan-2-ylmethyl)-6-methyl-pyridazin- 3(2H) -one derivatives</b> </p><p>Youness Boukharsa, Wiame Lakhlili, Jaouad El harti, Bouchra Meddah, Ramata Yvette Tiendrebeogoc, Jamal Taouﬁk, My El Abbes Faouzi, Azeddine Ibrahimi, M'hammed Ansar\n</p></blockquote><blockquote><p><b>Insight into the mechanism of lipids binding and uptake by CD36 receptor</b> </p><p>  Zineb Tarhda, Azeddine Ibrahimi\n</p></blockquote><blockquote><p><b>Affinity comparison of different THCA synthase to CBGA using modeling computational approaches</b></p><p> Moulay Abdelaziz El Alaoui, Azeddine Ibrahimi, Oussama Semlali, Zineb Tarhda, Melloul Marouane, Alaoui Najwa, Abdelmajid Soulaymani &amp; Elmostafa El Fahime\n</p></blockquote><blockquote><p><b>Three-Dimensional Structure Prediction of Fatty Acid Binding Site on Human Transmembrane Receptor CD36</b> </p><p>Zineb Tarhda1, Oussama Semlali1, Anas Kettani, Ahmed Moussa, Nada A. Abumrad and Azeddine Ibrahimi\n</p></blockquote><blockquote><br></blockquote>",
           "_tags": [
             "Theme"
           ],
           "_name": "content2",
-          "_anchor": "content2-11"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<blockquote>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</blockquote>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content2",
-          "_anchor": "content2-12"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<blockquote>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</blockquote>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content2",
-          "_anchor": "content2-13"
+          "_anchor": "content2-1g"
         },
         {
           "_params": {
@@ -993,7 +962,7 @@
             "overlayOpacity": "0.6"
           },
           "title": "COVID-19@MP2D",
-          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.<br>Photo by Fusion Medical Animation on Unsplash<br>",
+          "text": "\"The current pandemic of COVID-19 is caused by a novel virus strain SARS-CoV-2, an enveloped, positive-sense, single-stranded RNA betacoronavirus of the family Coronaviridae. To devise therapeutic strategies to counteract SARS-CoV-2 infection, it is crucial to develop a comprehensive understanding of how this coronavirus hijacks the host during the course of infection, and to apply this knowledge towards developing both new drugs and repurposing existing ones. \"&nbsp;<br><i>towardsdatascience.com</i><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
           "_tags": [
             "Theme"
@@ -1051,7 +1020,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</blockquote>",
+          "text": "<blockquote><p>Modern drug discovery involves the identification of screening hits, medicinal chemistry and optimization of those hits to increase the affinity, selectivity (to reduce the potential of side effects), efficacy/potency, metabolic stability (to increase the half-life), and oral bioavailability. Once a compound that fulfills all of these requirements has been identified, the process of drug development can continue, and, if successful, clinical trials are developed. </p><p>wikipedia.org</p></blockquote>",
           "_tags": [
             "Theme"
           ],
@@ -1064,20 +1033,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</blockquote>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content2",
-          "_anchor": "content2-y"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<blockquote>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</blockquote>",
+          "text": "<blockquote><p>The most fundamental goal in drug design is to predict whether a given molecule will bind to a target and if so how strongly. Molecular mechanics or molecular dynamics is most often used to estimate the strength of the intermolecular interaction between the small molecule and its biological target.&nbsp;</p><p>Drug design with the help of computers may be used at any of the following stages of drug discovery:\n</p><p>\n<span style=\"font-size: 1.07rem;\">&nbsp; &nbsp; hit identification using virtual screening (structure- or ligand-based design)&nbsp;</span></p><p>&nbsp; &nbsp; hit-to-lead optimization of affinity and selectivity (structure-based design, QSAR, etc.)\n</p><p>&nbsp; &nbsp; lead optimization of other pharmaceutical properties while maintaining affinity</p><p>wikipedia.org</p></blockquote>",
           "_tags": [
             "Theme"
           ],
@@ -1086,22 +1042,85 @@
         },
         {
           "_params": {
+            "showTitle": true,
             "showText": true,
-            "paddingTop": 4,
-            "paddingBottom": 4,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "55",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/drug-design-yourgenome-3-907x811.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Different stages of drug developement",
+          "text": "Image credit: Genome Research Limited",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-1o",
+          "_styles": {
+            "H3": {
+              "text-align": "right"
+            },
+            "P": {
+              "text-align": "right"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showText": true,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgColor": "#fff"
           },
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/image1.jpg",
-              "width": 1400
+              "src": "@PROJECT_PATH@/assets/images/sh1-parita-2-1400x1084.png",
+              "width": 1400,
+              "link": "publications.html",
+              "alt": "",
+              "title": ""
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
             }
           },
-          "text": "Title.",
+          "text": "<b>Molecular docking of paritaprevir, an anti HCV drug, into the active site of SARS-CoV-2 main protease</b>. <i>Hakmi et al. 2020</i><br>",
           "_tags": [
             "Theme"
           ],
@@ -1205,7 +1224,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-295x123.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-h-1-307x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
